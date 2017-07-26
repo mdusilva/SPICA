@@ -1,0 +1,11 @@
+Package: SPICA
+Type: Package
+Title: Synthetic Photometry for the Common Astronomer
+Version: 0.1.0
+Author: Manuel Silva and Alberto Krone-Martins
+Maintainer: Manuel Silva <msilva@sim.ul.pt>
+Description: This is a set of tools to compute synthetic photometry in a simple way,
+            ideal to integrate in larger projects.
+License:  GPL (>=3)
+Encoding: UTF-8
+LazyData: true
